@@ -1,0 +1,13 @@
+.about-us {
+    background: url(../images/about-banner.jpg) no-repeat;
+    background-size: cover;
+}
+.about-hover span {
+    color: #969ca7;
+    font-size: 44px;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+.about-hover span:hover {
+    color: #f3fa2a !important;
+}

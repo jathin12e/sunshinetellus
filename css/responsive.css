@@ -1,0 +1,87 @@
+@media screen and (max-width:767px) {
+section.banner_slider {
+margin-top: 190px !important;
+}
+
+}
+@media screen and (max-width:640px) {
+    .ceo-image img{
+        width: 100% !important;
+        position: relative;
+    }
+    .content-box2 {
+    top: 25px !important;
+    left: 0px !important;}
+    iframe {
+    width: 100%;
+}
+.banner-btn button {
+    padding: 0 15px !important;
+        font-size: 16px !important;
+    line-height: 45px !important;
+}
+.slide .slide__content {
+    padding: 0px 20px !important;
+    position: absolute !important;
+    z-index: 999;
+    top: 200px;
+}
+.content-box h3 {
+        font-size: 18px !important;
+}
+
+section.home-sec3 {
+    background: none !important;
+}
+h2 {
+        font-size: 25px !important;
+}
+.home-sec4 h2 {
+        width: 100% !important;
+}
+.footer-links h3 {
+    margin: 15px 0;
+}
+ul.navbar-nav {
+    background: #fff;
+    width: 100%;
+    right: 0;
+}
+.services-banner h2 {
+    padding: 170px 0px 90px 0 !important; 
+}
+.vision-mission, .mission {
+background: none !important;
+}
+.pl-50 {
+    padding-left: 10px !important;
+}
+.services-banner, .legal-banner {
+    background-size: cover !important;
+    height: 330px !important;
+}
+.price-box.text-center {
+    margin: 25px 0;
+}
+li.nav-item.dropdown {
+    padding: 0px 15px 15px 15px;
+}
+.banner-slider.slick-initialized .slick-slide {
+    height: auto !important;
+}
+.slide .slide__img img {
+        height: 500px !important;
+    object-fit: cover;
+}
+.slide .slide__content--headings h2{
+    font-size:24px !important;
+        margin: 0 !important;
+}
+.slide__content p {
+    font-size: 18px !important;
+}
+    }
+
+    @media only screen and (min-width:576px) and (max-width:767px) {
+
+    }
